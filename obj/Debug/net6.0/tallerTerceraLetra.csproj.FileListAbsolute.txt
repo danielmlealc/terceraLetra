@@ -1,0 +1,14 @@
+C:\Users\Andy\source\repos\tallerTerceraLetra\bin\Debug\net6.0\tallerTerceraLetra.exe
+C:\Users\Andy\source\repos\tallerTerceraLetra\bin\Debug\net6.0\tallerTerceraLetra.deps.json
+C:\Users\Andy\source\repos\tallerTerceraLetra\bin\Debug\net6.0\tallerTerceraLetra.runtimeconfig.json
+C:\Users\Andy\source\repos\tallerTerceraLetra\bin\Debug\net6.0\tallerTerceraLetra.dll
+C:\Users\Andy\source\repos\tallerTerceraLetra\bin\Debug\net6.0\tallerTerceraLetra.pdb
+C:\Users\Andy\source\repos\tallerTerceraLetra\obj\Debug\net6.0\tallerTerceraLetra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andy\source\repos\tallerTerceraLetra\obj\Debug\net6.0\tallerTerceraLetra.AssemblyInfoInputs.cache
+C:\Users\Andy\source\repos\tallerTerceraLetra\obj\Debug\net6.0\tallerTerceraLetra.AssemblyInfo.cs
+C:\Users\Andy\source\repos\tallerTerceraLetra\obj\Debug\net6.0\tallerTerceraLetra.csproj.CoreCompileInputs.cache
+C:\Users\Andy\source\repos\tallerTerceraLetra\obj\Debug\net6.0\tallerTerceraLetra.dll
+C:\Users\Andy\source\repos\tallerTerceraLetra\obj\Debug\net6.0\refint\tallerTerceraLetra.dll
+C:\Users\Andy\source\repos\tallerTerceraLetra\obj\Debug\net6.0\tallerTerceraLetra.pdb
+C:\Users\Andy\source\repos\tallerTerceraLetra\obj\Debug\net6.0\tallerTerceraLetra.genruntimeconfig.cache
+C:\Users\Andy\source\repos\tallerTerceraLetra\obj\Debug\net6.0\ref\tallerTerceraLetra.dll
